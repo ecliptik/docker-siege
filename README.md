@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/image/ecliptik/docker-siege.svg)](https://microbadger.com/images/ecliptik/docker-siege "Get your own image badge on microbadger.com")
+
 #Usage
 ## Running Container as a Command
 
